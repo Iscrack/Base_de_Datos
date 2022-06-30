@@ -50,6 +50,9 @@ En la BD utilizada en clase realiza las siguientes consultas:
 ** WHERE fecha > 2021-09-30;
 
 * Muestra el nombre de la revista que se haya publicado en la sucursal 1 cuyos ejemplares tengan más de 80 páginas.
+** SELECT titulo_revista, codigo_de_sucursal, numero_de_paginas
+** FROM ejemplares INNER JOIN revista ON ejemplares.numero_de_registro4 = revista.numero_de_registro INNER JOIN publican ON publican.numero_de_registro1 = revista.numero_de_registro INNER JOIN sucursal ON sucursal.codigo_de_sucursal = publican.codigo_de_sucursal2
+** WHERE codigo_de_sucursal=1;
 
 
 https://www.db-fiddle.com/f/iAUjGLoFoHtam2pK68Xh1B/1
