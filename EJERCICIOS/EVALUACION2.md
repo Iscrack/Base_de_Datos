@@ -3,14 +3,25 @@
 Objetivo: Demostrar la correcta identificación de los conceptos del lenguaje SQL
 Ejercicio:
 
-1. Menciona los comandos DMl: (valor .85)
+1. Menciona los comandos DML: (valor .85)
+**SELECT
+**INSERT
+**UPDATE
+**DELETE
 
 2. Menciona 3 tipos de datos que existen: (valor .85)
-
+**CHAR
+**VARCHAR
+**INT
+**SMALLINT
+**BIGINT
+**FLOAT
 
 3. ¿Qué diferencia existe entre TRUNCATE y DELETE?(valor .85)
 
+
 4. ¿Para qué se utiliza el atributo UNIQUE?(valor .85)
+
 
 5. ¿Qué diferencia hay entre los tipos de datos VARCHAR y CHAR? (valor .85)
 
