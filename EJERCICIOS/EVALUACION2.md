@@ -32,6 +32,7 @@ Ejercicio:
 **SQL (Structured Query Language) Lenguaje Estructurado de Consultas
 
 7. Defina brevemente qué es MySQL WorkBench (valor .85)
+**Es un editor de BD que nos permite exportar datos a versión PDF o imagen
 
 ## Práctica 5.
 ### Gestores de base de datos
