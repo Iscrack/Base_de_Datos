@@ -18,16 +18,18 @@ Ejercicio:
 **FLOAT
 
 3. ¿Qué diferencia existe entre TRUNCATE y DELETE?(valor .85)
-
+**DELETE borra el dato por completo aunque mantiene el formato de la estructura
+**TRUNCATE elimina los datos poco a poco 
 
 4. ¿Para qué se utiliza el atributo UNIQUE?(valor .85)
-
+**Es un atributo que no permite la repetición de datos
 
 5. ¿Qué diferencia hay entre los tipos de datos VARCHAR y CHAR? (valor .85)
-
+**CHAR es una cadena de caracteres con longitud fija
+**VARCHAR es una cadena de caracteres con longitud variable
 
 6. Defina brevemente el significado de las siglas SQL(valor .85)
-
+**SQL (Structured Query Language) Lenguaje Estructurado de Consultas
 
 7. Defina brevemente qué es MySQL WorkBench (valor .85)
 
