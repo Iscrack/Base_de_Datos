@@ -55,3 +55,4 @@ medio superior a 200€. Es necesario mostrar el nombre del fabricante. (valor 4
 **FROM producto
 **GROUP BY marca;
 
+https://www.db-fiddle.com/f/oqhwY9o2BxFVUSyRtdZUAD/3
