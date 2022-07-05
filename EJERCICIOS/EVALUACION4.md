@@ -45,3 +45,4 @@ Una vez creados los triggers escribe varias sentencias de inserción y actualiza
 sobre la tabla alumnos y verifica que los triggers se están ejecutando
 correctamente.
 
+https://www.db-fiddle.com/f/efM3KozCwgzMYRy4z2QRBR/0
