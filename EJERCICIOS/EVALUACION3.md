@@ -36,9 +36,11 @@ también debe incluir los fabricantes que no tienen ningún producto. El resulta
 mostrará dos columnas, una con el nombre del fabricante y otra con el número de
 productos que tiene. Ordene el resultado descendentemente por el número de
 productos. (valor 4.5)
-**SELECT COUNT (clave_prod), marca 
-**FROM producto
-**GROUP BY marca;
+
+**USE tecnologia;
+**SELECT COUNT (codigo_prod), nombre_fab
+**FROM producto INNER JOIN fabricante ON fabricante.nombre_fab = producto.nombre_fab1
+**GROUP BY nombre_fab1;
 
 
 3. Muestra el precio máximo, precio mínimo y precio medio de los productos de cada
