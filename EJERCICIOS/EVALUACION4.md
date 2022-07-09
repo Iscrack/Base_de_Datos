@@ -51,6 +51,11 @@ correctamente.
 
 ![image](https://user-images.githubusercontent.com/99224635/178095286-ed1f19c7-092a-4ba1-8570-24c0a87e26b5.png)
 
+![image](https://user-images.githubusercontent.com/99224635/178095311-cc44c608-2b4b-4a51-b6e2-b75e84698679.png)
+
+![image](https://user-images.githubusercontent.com/99224635/178095322-a72a5994-f553-4a82-abe7-d1cc1f569f6d.png)
+
+
 
 
 https://www.db-fiddle.com/f/efM3KozCwgzMYRy4z2QRBR/2
